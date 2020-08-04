@@ -1,1 +1,1 @@
-export declare function core(num: number): number;
+export * from "./interfaces";
